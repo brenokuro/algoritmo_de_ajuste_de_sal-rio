@@ -1,6 +1,7 @@
 # algoritmo_de_ajuste_de_salario
 programa
 {
+
 //Algoritmo de ajuste de salário em 15%
 
 	
